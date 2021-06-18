@@ -1,0 +1,19 @@
+kemampuan-dasar/
+└── kemampuan-dasar-1
+    ├── kasus
+    │   ├── cari-java.sh
+    │   └── process-killer.sh
+    └── latihan
+        ├── cmdline.txt
+        ├── env.txt
+        ├── grub.txt
+        ├── kernel-linux.txt
+        └── shellscripts
+            ├── echo_example.sh
+            ├── first.sh
+            ....
+            ....
+            .... seluruh shell script yang dicoba
+            ....
+            ....
+            └── sleep-example.sh
